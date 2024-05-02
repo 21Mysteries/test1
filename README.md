@@ -287,7 +287,7 @@ Here's a simple footnote, [^1] and here's a longer one.[^bignote]
 
 ### Heading IDs
 
-#### My Awesome Heading {#custom-id}
+#### My Awesome Heading (#custom-id)
 
 
 
