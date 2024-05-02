@@ -465,8 +465,8 @@ sdf
 
 
 First Term
-: definition for first term 
-: definition for second term  
+    : definition for first term
+    : definition for second term  
 
 Second term
 : definition for second term
